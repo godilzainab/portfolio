@@ -1,0 +1,201 @@
+body
+{
+    margin: 0px;
+    /* background-color: aquamarine; */
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.listitem
+{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin-top: 10px;
+    font-size: 24px;
+}
+link
+{
+    font-size: 30px;
+}
+.intro
+{
+    display: flex;
+    justify-content: space-between;
+}
+.mypic
+{
+    height: 40vw;
+    width:30vw; 
+    margin-right: 70px;
+}
+
+.mypic2
+{
+    height: 40vw;
+    width:30vw; 
+    margin-right: 70px;
+}
+.intro-para
+{
+ display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;
+
+}
+span{
+    color: rgb(179, 76, 179);
+    font-size: 100px;
+
+}
+
+.name{
+    font-size: 40px;
+}
+.imgsize
+{
+    height: 400px;
+    margin-right: 200px;
+    /* padding-left: -90px; */
+    margin-top: -200px;
+}
+.imgside
+{
+    height: 350px;
+    margin-left: 40%;
+    /* padding-left: -90px; */
+    margin-top: -150px;
+}
+h4
+{
+    margin: 0px;
+    margin-top: 50px;
+    margin-right: 250px;
+}
+h3{
+    background-color:black;
+    padding: 10px;
+    color: white;
+}
+p{
+    margin-bottom: 10px;
+}
+h1{
+    text-decoration: underline plum;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* #Projects
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 40px; */
+    /* gap: -10px; */
+
+    /* width: 50%; */
+    /* grid-row-gap: 10px;
+    grid-column-gap: -10px; */
+    /* background-color:plum; */
+    /* border: 7px solid plum;
+    border-style: groove; */
+    /* padding: 20px; */
+/* } */
+/* .work-pic
+{
+    height: 200px;
+    /* width: 30px;` */
+    /* border: 5px solid grey;
+    border-style:inherit;
+} */ 
+/* .new-css
+{
+    border: 7px solid plum;
+    border-style: groove;
+} */
+
+.web
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 85%;
+    gap: 20px;
+    text-align: center;
+}
+.center
+{
+    text-align: center;
+    /* background-color: plum; */
+}
+.webprojects
+{
+    width: 50%;
+    height: 300px;
+    border: 2px solid black;
+}
+.graphic
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 90%;
+    gap: 20px;
+}
+.graphicprojects
+{
+    width: 60%;
+    height: 300px;
+    border: 2px solid black;
+}
+
+#footer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+#about
+{
+    display: flex;
+    justify-content: space-around;
+}
+.aboutme
+{
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px;
+}
+.fa-linkedin
+{
+    font-size: 50px;
+    /* align-items: center; */
+    text-align: center;
+}
+
+#contactMe{
+    text-align: center;
+    /* background-color: gray; */
+}
+.imgside2
+{
+    height: 300px;
+    margin-left: 50%;
+    /* padding-left: -90px; */
+    /* margin-top: -150px; */
+}
+a:hover
+{
+    color: plum;
+    text-decoration: underline;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
